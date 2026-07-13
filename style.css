@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    color: #f6f6f6;
+    background-color: #000000;
+
+}
+h1{
+    font-family: 'Goldman', sans-serif;
+    font-weight: 400;
+
+    
+    strong{
+       color: #22D4FD;
+    }
+}
+
+img{
+    width: 467px;
+}
+
+main, .container-btn{
+    display: flex;
+}
+
+.container-text{
+    width: 613px;
+}
+
+.container-img{
+    width: 488px;
+}
+
+a{
+    background-color: #22D4FD;
+    padding: 16px;
+    font-size: 30px;
+    line-height: 64px;
+    border-radius: 16px;
+    text-decoration: none;
+    color: #000000;
+}
